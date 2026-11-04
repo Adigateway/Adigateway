@@ -10,8 +10,6 @@
 
 Finishing my Bachelor's in Robotics (March 2027), after an internship at the **OTIS Lead Design Center in Berlin**, where I built an ML pipeline that reads elevator CAN-bus traces and finds the root cause of faults — **96% diagnostic accuracy**, with SHAP explanations so the engineers using it can see *why* each call was made.
 
-Looking for working-student roles and thesis projects in robotics, computer vision and machine learning.
-
 ---
 
 ### Selected projects
@@ -21,9 +19,8 @@ Looking for working-student roles and thesis projects in robotics, computer visi
 | **[Multi_Camera_Tracking](https://github.com/Adigateway/Multi_Camera_Tracking)** | Tracks people across four CCTV cameras and puts everyone on one top-down floor map, with the same ID in every view. Prototype submitted to Sentics GmbH. | YOLOv8, homography calibration, DBSCAN, Hungarian assignment, DeepSORT |
 | **[ML_Automotive_Safety](https://github.com/Adigateway/ML_Automotive_Safety)** | A low-cost collision warning for older cars: estimates the distance and closing speed of the car ahead, then warns green/yellow/red. Pitched at Campus Startup Night. | YOLOv8, monocular distance estimation, HC-SR04 + Arduino, Berkeley PATH model |
 | **[computer-vision-algorithms](https://github.com/Adigateway/computer-vision-algorithms)** | Eight MATLAB modules implementing the maths behind vision from first principles, including an industrial door-gap inspection pipeline. | Sobel/Scharr, morphology, Hough transform, QR/SVD, DLT, 2-D FFT |
+| **[InclusivAI_voiceassist](https://github.com/Adigateway/InclusivAI_voiceassist)** | A voice assistant that helps people find the right Caritas support service in Lower Franconia: you describe your situation in everyday speech, it asks follow-up questions, matches the right local office and explains why. Crisis detection at every step. Built for the Caritas Würzburg hackathon. | Web Speech API, LLM routing (OpenAI-compatible), edge-tts / Piper, React + Vite, Python |
 | **[stock-alpha](https://github.com/Adigateway/stock-alpha)** | An S&P 500 momentum screen that documents what *failed*: a 38-feature ML model scored AUC 0.50 under blind validation and was removed. One feature survived. | Python, PostgreSQL, XGBoost, Flask, Monte Carlo |
-
-Write-ups with diagrams, result images and live browser demos: **[adityasrivatsa.de/projects](https://adityasrivatsa.de/projects.html)**
 
 ---
 
